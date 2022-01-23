@@ -28,5 +28,4 @@ tomcat
 .classpath
 .project
 
-# Ignore text file
-actiontexts.txt
+
